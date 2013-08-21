@@ -1,5 +1,7 @@
 # Pensive
 
+# this is not a working thing yet!
+
 TODO: Write a gem description
 
 ## Installation
